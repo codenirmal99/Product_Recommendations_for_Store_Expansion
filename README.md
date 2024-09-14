@@ -33,6 +33,8 @@ To provide data-driven recommendations for the food and beverage offers (Chicken
 - Calculated the relative sales distribution for each product offering across different store types.
 - Unpivoted the sales distribution table to facilitate better chart creation and visualization.
 - Visualized sales distribution to understand trends in product performance across store types.
+
+  ![Sales Distribution Chart](https://github.com/codenirmal99/Product_Recommendations_for_Store_Expansion/blob/main/Images/Sales%20Distribution.png)
   
 ### 5. Recommendations Based on Analysis
 
@@ -56,7 +58,7 @@ After analyzing sales distribution and product performance, specific recommendat
     - DoorDash: Keep options open for future expansion.
     - Swirl World (Frozen Yogurt): Offer a mix of classic and innovative flavours.
 
-- ### **Travel Centers (Traveler Focus)**
+- ### **Travel Centers (Traveller Focus)**
 
     - Adv GnG (Pizza): Prioritize quick, easy-to-eat options.
       
@@ -75,6 +77,8 @@ After analyzing sales distribution and product performance, specific recommendat
 - Built an interactive `Power BI` Dashboard to provide a visual overview of product sales distribution by store type.
 - Stakeholders could filter by store type and product to view daily sales averages and recommendations for new stores.
 - A `Shape Map` visual allowed stakeholders to see average sales by state for different products.
+
+    ![Dashboard](https://github.com/codenirmal99/Product_Recommendations_for_Store_Expansion/blob/main/Images/Dashboard.png)
   
 ### 8. Data Transformation and Unpivoting
 
@@ -89,6 +93,8 @@ Established relationships between various tables (e.g., Store Connector, Offer C
 
 - Used `Gamma AI` to generate the presentation summarizing the findings and product recommendations for each new store location.
 - The presentation included an overview of the current product mix offered at different store types.
+
+    ![Dashboard](https://github.com/codenirmal99/Product_Recommendations_for_Store_Expansion/blob/main/Images/Brief%20Presentation.png)
 
 ## Conclusion
 - By analyzing past store performance, this project provided targeted recommendations for product offerings in new store locations. The integration of `Excel` for analysis, `Power BI` for visualization, and `Gamma AI` for presentation ensured that the final recommendations were both data-driven and effectively communicated.
