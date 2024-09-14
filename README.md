@@ -2,6 +2,17 @@
 ## Project Overview
 This project involved making product recommendations for new stores across various states based on historical store performance data. The company currently operates stores in 6 states and is expanding into additional states, with specific locations and store types identified. However, the food and beverage offerings at these new stores needed to be determined.
 
+1. What is the Objective of Our Analysis
+    - To find the ideal product offer mix for each store.
+      
+2. What Does Success Look Like?
+    - Offer distribution based on historical sales.
+3. What Trends are Important?
+    - Correlations.
+4. What is the Final Deliverable? 
+    - Recommendations & Dashboard.
+
+
 ## Goal: 
 To provide data-driven recommendations for the food and beverage offers (Chicken, Adv GnG (Pizza), Bean to Cup (Coffee), Swirl World (Frozen Yogurt), and DoorDash) at new stores based on insights from historical data.
 
